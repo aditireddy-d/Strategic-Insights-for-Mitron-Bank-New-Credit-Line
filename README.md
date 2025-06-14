@@ -23,7 +23,7 @@ This project signifies the synergy between data analytics and business strategy,
 https://app.powerbi.com/links/9CNX33ScMG?ctid=2ce3489d-e38c-429e-8d3a-7069a46b2b2c&pbi_source=linkShare
 
 ## Dashboard Glimpse:
-![Dashboard](dashboard_glimpse.png)
+![Dashboard](Home Page.png)
 
 
 
